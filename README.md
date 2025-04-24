@@ -1,5 +1,5 @@
 # Programming-1
-A generative art piece encorporating a grid theme by using an animated interactive drawing in Processing (Java).
+A generative art piece incorporating a grid theme by using an animated interactive drawing in Processing (Java).
 Name : Gráinne O' Connor
 Student Number: 11402918
 
