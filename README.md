@@ -3,7 +3,7 @@ A generative art piece encorporating a grid theme by using an animated interacti
 Name : Gráinne O' Connor
 Student Number: 11402918
 
-Brief description of piece (1 or 2 sentences MAX):
+Brief description of piece:
 ===================================================
 This sketch is titled "Saoirse don Phailistín" and displays symbols of Palestinian resistance 
 through use of a range of methods, loops, interactivity(keyPressed & mouse methods), shapes (triangle, rectangle, and arc), 
